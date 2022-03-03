@@ -1,11 +1,19 @@
-.logo{
-    width: 100px;
-}
-.carousel-inner{
-    background-color: rgba(231, 172, 228, 0.705);
-    margin-top: 100px;
+.container{
     margin-bottom: 100px;
+}
+.carousel-bg{
+    background-color: #fceae8;
     border-radius: 10px;
-    height: 500px;
-    padding: 60px;
+    padding: 20px 40px;
+}
+.price{
+    color: #ff3fb5;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
 }
