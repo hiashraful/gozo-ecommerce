@@ -4,7 +4,7 @@
 .carousel-bg{
     background-color: #fceae8;
     border-radius: 10px;
-    padding: 20px 40px;
+    padding: 30px 40px;
 }
 .price{
     color: #ff3fb5;
@@ -16,4 +16,32 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.catagory-img{
+    width: 100px;
+}
+.cat1{
+    
+    background: linear-gradient(90deg, rgb(253, 116, 3) 0%, rgb(245, 145, 88) 100%);
+}
+.cat2{
+    background: linear-gradient(90deg, rgba(235,4,226,1) 0%, rgb(198, 50, 231) 100%);
+}
+.cat3{
+    background: linear-gradient(90deg, rgb(0, 68, 255) 0%, rgb(52, 70, 240) 100%);
+}
+.cat-box{
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+#subscribe{
+    height: 300px;
+}
+.footer-text{
+    color: rgb(202, 197, 197);
 }
