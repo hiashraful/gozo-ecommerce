@@ -1,0 +1,11 @@
+.logo{
+    width: 100px;
+}
+.carousel-inner{
+    background-color: rgba(231, 172, 228, 0.705);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    height: 500px;
+    padding: 60px;
+}
